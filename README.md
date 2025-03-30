@@ -9,8 +9,6 @@ git clone https://github.com/Backbiter99/cargo-tracker.git
 cd cargo-tracker
 ```
 
-````
-
 ## Running the Frontend Locally
 
 1. Navigate to the frontend directory:
@@ -61,8 +59,3 @@ cd cargo-tracker
     ```
 5. The backend will be available at:
    **[http://localhost:3000](http://localhost:3000)**
-
-```
-
-```
-````
