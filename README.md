@@ -6,7 +6,7 @@ Here's the improved markdown version of your installation instructions:
 ## Clone the Repository
 
 ```sh
-git clone https://github.com/your-repo/cargo-tracker.git
+git clone https://github.com/Backbiter99/cargo-tracker.git
 cd cargo-tracker
 ```
 ````
