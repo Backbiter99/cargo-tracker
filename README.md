@@ -1,7 +1,6 @@
-Here's the improved markdown version of your installation instructions:
-
-````markdown
 # Cargo Tracker - Installation Guide
+
+## Live Link : https://cargo-tracker-eosin.vercel.app/
 
 ## Clone the Repository
 
@@ -9,6 +8,7 @@ Here's the improved markdown version of your installation instructions:
 git clone https://github.com/Backbiter99/cargo-tracker.git
 cd cargo-tracker
 ```
+
 ````
 
 ## Running the Frontend Locally
@@ -25,7 +25,7 @@ cd cargo-tracker
     ```sh
     pnpm run dev
     ```
-4. The frontend will be available at:  
+4. The frontend will be available at:
    **[http://localhost:5173](http://localhost:5173)**
 
 ---
@@ -59,9 +59,10 @@ cd cargo-tracker
     ```sh
     pnpm run dev
     ```
-5. The backend will be available at:  
+5. The backend will be available at:
    **[http://localhost:3000](http://localhost:3000)**
 
 ```
 
 ```
+````
